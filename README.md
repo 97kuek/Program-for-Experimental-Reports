@@ -1,11 +1,9 @@
-# Program-for-Experimental-Reports
-実験レポート用プログラム置き場
+# B2_Class_Projects
 ## Contents
-### B2
+### 春・夏
 #### 理工学基礎実験2A
 - resonant_circuit(共振回路事前課題)
 #### 確率・統計概論
 - Probability-and-Statistics(乱数生成レポート)
+### 秋・冬
 #### 情報通信実験A
-### B3
-#### 情報通信実験B
