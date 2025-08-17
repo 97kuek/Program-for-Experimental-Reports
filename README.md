@@ -4,6 +4,6 @@
 #### 理工学基礎実験2A
 - resonant_circuit(共振回路事前課題)
 #### 確率・統計概論(Probability-and-Statistics)
-- Probability-and-Statistics(乱数生成レポート)
+- 乱数生成レポート
 ### 秋・冬
 #### 情報通信実験A
