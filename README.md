@@ -2,7 +2,9 @@
 ## Contents
 ### 春・夏
 #### 理工学基礎実験2A
-- resonant_circuit(共振回路事前課題)
+##### 共振回路
+- resonant_circuit.m
+- RLCSim.asc (共振回路ステップ応答シミュレーション)
 #### 確率・統計概論(Probability-and-Statistics)
 - 乱数生成レポート
 ### 秋・冬
