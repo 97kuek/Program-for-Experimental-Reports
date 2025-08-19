@@ -8,6 +8,9 @@
 #### 確率・統計概論(Probability-and-Statistics)
 - 乱数生成レポート
 #### アルゴリズムとデータ構造A(ADSA)
-- mergesortTD_class.c ... トップダウン型マージソート
+- mergesortTD.c ... トップダウン型マージソート
+- sort_selection.c ... 選択ソート
+- sort_insertion1.c ... 挿入ソート
+- quicksort.c ... クイックソート
 ### 秋・冬
 #### 情報通信実験A
