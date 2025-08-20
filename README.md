@@ -9,6 +9,8 @@
 - resonant_circuit.m ... 共振回路事前課題
 - RLCSim.asc ... 共振回路ステップ応答シミュレーション(LTSpiceで実行可能)
 #### アルゴリズムとデータ構造A(ADSA)
+- list_search.c ... 中間レポート6-3
+- list_binsearch.c ... 中間レポート6-4
 - mergesortTD.c ... トップダウン型マージソート
 - sort_selection.c ... 選択ソート
 - sort_insertion1.c ... 挿入ソート
