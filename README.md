@@ -1,4 +1,5 @@
 # B2_Class_Projects
+![Last Commit](https://img.shields.io/github/last-commit/97kuek/B2_Class_Projects?label=最終更新&style=flat-square)
 ## Contents
 ### 春・夏
 #### プログラミングA
