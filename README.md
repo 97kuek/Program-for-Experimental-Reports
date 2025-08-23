@@ -5,6 +5,8 @@
 #### プログラミングA(ProgrammingA)
 - 長いので略
 - 前半7回Java,後半7回Python
+#### 情報理論A(InformationTheory)
+- EntropyRate.m ... マルコフモデルのエントロピーレート
 #### 確率・統計概論(Probability-and-Statistics)
 - 乱数生成レポート
 #### 理工学基礎実験2A_共振回路(resonant_circuit)
