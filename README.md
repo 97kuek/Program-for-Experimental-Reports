@@ -5,8 +5,6 @@
 #### プログラミングA(ProgrammingA)
 - 長いので略
 - 前半7回Java,後半7回Python
-#### 情報理論A(InformationTheory)
-- EntropyRate.m ... マルコフモデルのエントロピーレート
 #### 確率・統計概論(Probability-and-Statistics)
 - 乱数生成レポート
 #### 理工学基礎実験2A_共振回路(resonant_circuit)
@@ -20,6 +18,9 @@
 - sort_insertion1.c ... 挿入ソート
 - quicksort.c ... クイックソート
 - dfs_traversal.c ... 深さ優先探索
+#### 情報理論A(InformationTheory)
+- EntropyRate.m ... マルコフ連鎖のエントロピーレート計算
+- Huffman.m ... Huffman符号の平均符号長・エントロピーレート計算
 ### 秋・冬
 #### オペレーティングシステムA
 #### 情報通信実験A
